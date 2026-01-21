@@ -1,6 +1,7 @@
 # 🐱 Cat in the Box (Nintendo Switch)
 > ⚠️ **This project requires a modded Nintendo Switch.**  
 > It will **not** run on stock consoles.
+
 **Cat in the Box** is a charming and slightly chaotic indie game where watermelons, boxes, and a cat collide. Built with love and mild obsession, the game focuses on simple mechanics, replayability, and cozy vibes designed to feel right at home on the Nintendo Switch.
 
 ## 🎮 Platform
