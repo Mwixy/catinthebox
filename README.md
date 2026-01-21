@@ -35,7 +35,7 @@ This project is currently **in development**.
 Features, visuals, and gameplay elements may change.
 
 ## 📦 Installation
-Please check InstallationGuide.md
+Please see [InstallationGuide.md](InstallationGuide.md) for setup and installation instructions.
 
 ## 📄 License
 MIT License  
