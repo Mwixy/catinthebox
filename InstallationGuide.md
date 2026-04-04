@@ -12,7 +12,7 @@ Follow these steps carefully. Do not skip steps. Do not improvise.
 - A **microSD card** inside your Switch
 - A **computer** (Windows, macOS, or Linux)
 - The following files:
-  - `CatintheBox.nro`
+  - `Catinthe.nro`
   - `game` folder
 
 ---
@@ -21,17 +21,17 @@ Follow these steps carefully. Do not skip steps. Do not improvise.
 
 ### 1️⃣ Download the Files
 Download:
-- `CatintheBox.nro`
+- `Catinthe.nro`
 - the `game` folder
 
 Make sure:
-- `CatintheBox.nro` is a file  
+- `Catinthe.nro` is a file  
 - `game` is a folder (not zipped)
 
 ---
 
 ### 2️⃣ Connect Your Switch to Your Computer
-- Power off your Switch **or**
+- Open USB File Transfer app and connect to your PC **or**
 - Remove the microSD card and insert it into your computer
 
 Either method is fine.
@@ -53,7 +53,7 @@ Example:
 ### 4️⃣ Copy the Files (IMPORTANT)
 Inside the **`switch`** folder:
 
-- Place `CatintheBox.nro` directly into the `switch` folder
+- Place `Catinthe.nro` directly into the `switch` folder
 - Place the **entire** `game` folder into the `switch` folder
 
 ✅ Correct structure:
@@ -63,8 +63,8 @@ Inside the **`switch`** folder:
 
 
 ❌ Incorrect:
-- `CatintheBox.nro` inside the `game` folder
-- `game` inside another folder
+- `Catinthe.nro` inside the `game` folder
+- `game` inside another folder then 'switch'
 - Renaming files or folders
 
 Do **not** rename anything.
@@ -86,7 +86,7 @@ The game should now start.
 - Double-check the folder structure
 - Make sure the Switch is modded
 - Make sure the files are not inside a zip
-- Make sure `CatintheBox.nro` is in `/switch/`, not `/switch/game/`
+- Make sure `Catinthe.nro` is in `/switch/`, not `/switch/game/`
 
 If it still doesn’t launch, something is wrong with the setup.
 
