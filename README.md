@@ -46,4 +46,4 @@ Developed by **Mwixy**
 
 ---
 
-*Made with curiosity, cardboard boxes, and questionable sleep schedules.*
+*Made löve.*
